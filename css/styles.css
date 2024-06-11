@@ -1,24 +1,25 @@
+/* Style of class heading1 */
 .heading1 {
     color: #ff0000;
     margin-top: 50px;
     margin-bottom: 50px;
 }
-
+/* Style of class heading2 */
 .heading2 {
     color: #8142f5;
 }
-
+/* image styling */
 img {
     border-radius: 15px;
 }
-
+/* footer styling */
 footer {
     background-color: #8142f5;
     color: #fff;
     padding: 25px;
     margin-top: 50px;
 }
-
+/* Change body appearance when screen is smaller than 768px */
 @media only screen and (max-width:768px) {
     body {
         background-color: #000;
